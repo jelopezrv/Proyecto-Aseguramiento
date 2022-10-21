@@ -25,6 +25,8 @@ To see the back-end of this application implemented with Java Spring, see [here]
 
 **Warning! You will get Errors if you are not running a back-end on http://localhost:8080 with the right REST API like [here](https://github.com/gaetanBloch/ecommerce-spring-back).**
 
+##PRUEBA
+
 ## Application
 
 ### All Products
